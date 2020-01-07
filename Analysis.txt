@@ -1,0 +1,6 @@
+Forgot to add my analysis for each scatter plot so they are listed below:
+This plot here shows that as you move from the equater to each pole, the avg temp will drop. 
+This plot shows little correlation about the humidity changes vs latatude. If anything it looks like the northern cities have on avg more humidity though.
+The cloudiness plot is interesting because many of the cities in the API call have either 0% or 100% humidity
+The Wind speed plot indicates that, for the most part, windier cities are located away from the equator. I was reading an article explaining how the
+earth rotates faster along the equator than at the poles which is why we see most weather move in curved patterns rather than straight lines
